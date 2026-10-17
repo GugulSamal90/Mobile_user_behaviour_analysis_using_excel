@@ -1,7 +1,5 @@
 # Mobile_user_behaviour_analysis_using_excel
 
-# Mobile Usage Insights Dashboard | Excel & Power Query
-
 ## Project Overview
 
 The **Mobile Usage Insights Dashboard** is an interactive data analytics project developed using Microsoft Excel, Power Query, PivotTables, and charts to analyze smartphone usage patterns across different age groups, genders, and user behavior categories.
